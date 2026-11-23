@@ -1,6 +1,3 @@
-[README.md](https://github.com/user-attachments/files/35262492/README.md)
-# Parking-Stadium
-Парковка на Совкомбанк Арене
 # Арена Парковка — Android-обёртка
 
 Минимальное нативное приложение (Kotlin + WebView), которое открывает официальную страницу

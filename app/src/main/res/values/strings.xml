@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Арена Парковка</string>
+
+    <string name="error_badge">!</string>
+    <string name="error_title">Страница не загрузилась</string>
+    <string name="error_text">Проверьте подключение к интернету и попробуйте снова.\nОплата проходит только на официальном сайте.</string>
+    <string name="retry">Повторить</string>
+
+    <string name="no_app_for_link">Нет приложения, которое может открыть эту ссылку</string>
+</resources>

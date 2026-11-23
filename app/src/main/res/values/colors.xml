@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="surface">#FFFFFF</color>
+    <color name="brand">#14406E</color>
+    <color name="brand_dark">#0E2C4B</color>
+    <color name="text_primary">#141B26</color>
+    <color name="text_secondary">#5B6674</color>
+    <color name="nav_bar">#0E1520</color>
+
+    <color name="ic_launcher_background">#14406E</color>
+</resources>
